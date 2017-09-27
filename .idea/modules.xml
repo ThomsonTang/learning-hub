@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learning-hub.iml" filepath="$PROJECT_DIR$/learning-hub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learning-hub_main.iml" filepath="$PROJECT_DIR$/.idea/modules/learning-hub_main.iml" group="learning-hub" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learning-hub_test.iml" filepath="$PROJECT_DIR$/.idea/modules/learning-hub_test.iml" group="learning-hub" />
+    </modules>
+  </component>
+</project>

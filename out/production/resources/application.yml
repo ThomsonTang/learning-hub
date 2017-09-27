@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/learninghub
-    username: root
-    password: tgk1314lyh
-  jpa:
-    hibernate:
-      ddl-auto: create
